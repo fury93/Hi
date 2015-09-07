@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/fury93/hi-client.git
+[submodule "rest"]
+	path = rest
+	url = https://github.com/fury93/hi-rest.git
